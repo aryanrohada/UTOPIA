@@ -13,7 +13,7 @@ Event organizers often manage registrations and entry manually, which can be slo
 
 Our solution replaces traditional manual attendance verification with a faster, more efficient, and reliable digital system.
 
-### 🚀 How Our Solution Works
+###  How Our Solution Works
 
 1. **Attendee Registration:** Participants register for an event through a simple web interface. Their details are securely stored in a centralized database.
 
@@ -29,7 +29,7 @@ Our solution replaces traditional manual attendance verification with a faster, 
 
 
 
-### 🎯 Key Benefits
+###  Key Benefits
 
 -  Faster and smoother event entry
 -  Unique QR-based attendee verification
@@ -40,11 +40,11 @@ Our solution replaces traditional manual attendance verification with a faster, 
 -  Paperless event management
 
 
-### 🌟 Our Vision
+###  Our Vision
 
 GatePass aims to make event management smarter, faster, and more accessible by providing a simple, secure, and scalable digital check-in solution for college events, hackathons, workshops, seminars, and conferences.
 
-### 🛠️ Technology Stack
+###  Technology Stack
 
 - **Frontend:** React.js, Vite, Tailwind CSS
 - **Backend & Database:** Supabase (PostgreSQL)
