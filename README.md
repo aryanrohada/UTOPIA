@@ -64,4 +64,4 @@ GatePass aims to make event management smarter, faster, and more accessible by p
 [View Project](YOUR_DEPLOYED_LINK)
 
 ## GitHub Repository
-[Source Code](YOUR_REPOSITORY_LINK)
+[Source Code](https://github.com/aryanrohada/UTOPIA/blob/main/README.md)
