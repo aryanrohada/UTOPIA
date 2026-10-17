@@ -52,7 +52,7 @@ GatePass aims to make event management smarter, faster, and more accessible by p
 - **QR Code Generation:** qrcode.react
 - **QR Code Scanning:** html5-qrcode
 - **Deployment:** Vercel
-- 
+  
 ## Team Members
 1. Pranjal Gupta
 2. Devendra Sahare
