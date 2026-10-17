@@ -1,10 +1,10 @@
 # Team Utopia
 
 ## Project Name
-
+GatePass — QR-Based Event Check-In
 
 ## Problem Statement
-[Explain the problem your project solves]
+Event organizers often manage registrations and entry manually, which can be slow and prone to errors. Build a web application that lets organizers register attendees, issue unique QR passes, and verify entry at an event.
 
 ## Our Solution
 [Explain your proposed solution]
@@ -17,13 +17,13 @@
 ## Tech Stack
 - Frontend:
 - Backend:
-- Database:
+- Database: supabase(PostgreSQL)
 - Other Tools:
 
 ## Team Members
-1. Member 1
-2. Member 2
-3. Member 3
+1. Pranjal Gupta
+2. Devendra Sahare
+3. Aryan Rohada
 
 ## Demo Video
 [Watch Demo](YOUR_YOUTUBE_LINK)
