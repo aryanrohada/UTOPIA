@@ -6,7 +6,6 @@ GatePass — QR-Based Event Check-In
 ## Problem Statement
 Event organizers often manage registrations and entry manually, which can be slow and prone to errors. Build a web application that lets organizers register attendees, issue unique QR passes, and verify entry at an event.
 
-## Our Solution
 ##  Proposed Solution
 
 **GatePass** is a web-based event registration and attendance management system designed to simplify and automate the event check-in process using QR code technology.
